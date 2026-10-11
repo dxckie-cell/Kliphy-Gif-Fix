@@ -1,5 +1,5 @@
 {
-  "name": "Kplipy Gif Fix",
+  "name": "Klipy Gif Fix",
   "description": "Saves and shares Klipy GIFs as .gif instead of .mp4.",
   "authors": [{ "name": "dxckie-cell" }],
   "main": "index.js",
