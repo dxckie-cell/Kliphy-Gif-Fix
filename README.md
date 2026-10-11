@@ -1,1 +1,0 @@
-# Kliphy-Gif-Fix
