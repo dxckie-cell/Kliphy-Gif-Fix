@@ -1,0 +1,8 @@
+{
+  "name": "Kliphy Gif Fix",
+  "description": "Saves and shares Klipy GIFs as .gif instead of .mp4.",
+  "authors": [{ "name": "dxckie-cell" }],
+  "main": "index.js",
+  "hash": "8ea6b2d64d0e6da9f53a721096c164ec2f1dfa1d9fcf089e91f713dd2f501c45",
+  "vendetta": { "icon": "ic_image" }
+}
