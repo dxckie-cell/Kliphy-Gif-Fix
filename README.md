@@ -1,4 +1,4 @@
-# Kplipy Gif Fix
+# Klipy Gif Fix
 
 A Revenge (Classic / Vendetta-style) plugin that makes saving or sharing a **Klipy** GIF on Discord
 give you a real `.gif` instead of an `.mp4`.
