@@ -3,6 +3,9 @@
 A Revenge (Classic / Vendetta-style) plugin that makes saving or sharing a **Klipy** GIF on Discord
 give you a real `.gif` instead of an `.mp4`.
 
+It is the Klipy counterpart of [Tenor Gif Fix](https://github.com/nexpid/RevengePlugins/tree/main/src/plugins/tenor-gif-fix)
+by nexpid, which does the same for Tenor links.
+
 ## The problem
 
 Klipy GIFs sent in Discord are shown as short videos, so when you save one to your gallery or share it to
@@ -57,5 +60,8 @@ sha256sum index.js
 
 ## Credits
 
-- Inspired by the plugins in [nexpid/RevengePlugins](https://github.com/nexpid/RevengePlugins/tree/main/src/plugins).
+- Inspired by [Tenor Gif Fix](https://github.com/nexpid/RevengePlugins/tree/main/src/plugins/tenor-gif-fix)
+  by [nexpid](https://github.com/nexpid), from [nexpid/RevengePlugins](https://github.com/nexpid/RevengePlugins)
+  (licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Klipy Gif Fix does the same job for Klipy
+  links, using the Klipy API.
 - GIF files come from [Klipy](https://klipy.com).
